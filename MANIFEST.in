@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include the_factory_suite *.css
+recursive-include the_factory_suite *.csv
+recursive-include the_factory_suite *.html
+recursive-include the_factory_suite *.ico
+recursive-include the_factory_suite *.js
+recursive-include the_factory_suite *.json
+recursive-include the_factory_suite *.md
+recursive-include the_factory_suite *.png
+recursive-include the_factory_suite *.py
+recursive-include the_factory_suite *.svg
+recursive-include the_factory_suite *.txt
+recursive-exclude the_factory_suite *.pyc
