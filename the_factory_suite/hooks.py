@@ -179,3 +179,11 @@ user_data_fields = [
 # 	"the_factory_suite.auth.validate"
 # ]
 
+fixtures = [
+	"Project Information",
+	"Project Mastering Details",
+	"Project Information Shipping Details",
+	"Project Information Media Assets",
+	"Project Information Contact Details",
+	"ISF Purchase Order",
+]
