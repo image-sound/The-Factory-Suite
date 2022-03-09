@@ -185,5 +185,4 @@ fixtures = [
 	"Project Information Shipping Details",
 	"Project Information Media Assets",
 	"Project Information Contact Details",
-	"ISF Purchase Order",
 ]
